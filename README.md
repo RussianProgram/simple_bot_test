@@ -7,7 +7,7 @@ git clone https://github.com/RussianProgram/simple_bot_test.git
 2) Билдим образы и поднимаем контейнеры через docker-compose
 
 ```
-cd /simple_bot_test
+cd simple_bot_test
 docker build -t bot:test .
 ```
 
