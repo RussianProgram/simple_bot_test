@@ -17,4 +17,4 @@ docker run --name bot bot:test
 docker stop bot
 docker start bot
 ```
-4) После запуска бот буден доступен по ссылке @downloader_py_bot
+4) бот доступен по ссылке @JumboMumbot
